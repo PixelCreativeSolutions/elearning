@@ -1,0 +1,1 @@
+<?php echo password_verify('123','123'); ?>
